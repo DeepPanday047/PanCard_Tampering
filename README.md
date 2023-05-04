@@ -13,9 +13,10 @@
 #### 4.Converting the format of  tampered image similar to original image.
 #### 5.Reading images using opencv.
 #### 6.Convert the images to grayscale
-#### 7. Compute the Structural Similarity Index (SSIM) between the two        images,      ensuring that the difference image is returned.
+#### 7. Compute the Structural Similarity Index (SSIM) between the two               images,ensuring that the difference image is returned.
 #### 8.Calculating threshold and contours .
 #### 9.display the images (Original,tampered,diff,thershold) .
+
 
 ### Converting images into grayscale using opencv. Because in image processing many applications doesn't help us in identifying the important, edges of the coloured images also coloured images are bit complex to understand by machine beacuse they have 3 channel while grayscale has only 1 channel. 
 
